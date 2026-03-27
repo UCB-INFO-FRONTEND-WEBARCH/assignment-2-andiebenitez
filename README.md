@@ -308,9 +308,9 @@ This component calculates and displays statistics.
 Think about:
 - How to count total tasks (array length)
 - How to count completed tasks (use `.filter()`)
-- How to calculate active tasks (total - completed)
+- XXX OPTIONAL NO NEED TO SHOW ACTIVE COUNT ~~How to calculate active tasks (total - completed)~~
 
-Display these three numbers in your UI.
+Display these ~~three~~ two numbers in your UI.
 
 ### Filter Buttons
 
@@ -421,18 +421,12 @@ onClick={() => handleDelete(task.id)}
 
 ---
 
-## Submission Requirements
+## Submission Requirements - MODIFIED 10/27/25
 
 ### What to Submit
-1. **Source Code**: Complete React project folder (zip file)
-2. **Live Demo**: Deploy to GitHub Pages, Netlify, or Vercel
-3. **README**: Include setup instructions and feature list
-4. **Reflection**: 1-2 paragraph reflection on React vs vanilla JavaScript
+1. **Github URL** Submit github URL in bcourses
 
-### Submission Format
-- Submit via course website
-- Include live demo URL in submission comments
-- Ensure all code is properly commented
+NO NEED TO DEPLOY
 
 ---
 
